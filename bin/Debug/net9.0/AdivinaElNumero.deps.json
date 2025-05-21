@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AdivinaElNumero/1.0.0": {
+        "runtime": {
+          "AdivinaElNumero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdivinaElNumero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

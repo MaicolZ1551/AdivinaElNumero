@@ -1,0 +1,14 @@
+E:\proyector GitHub\AdivinaElNumero\bin\Debug\net9.0\AdivinaElNumero.exe
+E:\proyector GitHub\AdivinaElNumero\bin\Debug\net9.0\AdivinaElNumero.deps.json
+E:\proyector GitHub\AdivinaElNumero\bin\Debug\net9.0\AdivinaElNumero.runtimeconfig.json
+E:\proyector GitHub\AdivinaElNumero\bin\Debug\net9.0\AdivinaElNumero.dll
+E:\proyector GitHub\AdivinaElNumero\bin\Debug\net9.0\AdivinaElNumero.pdb
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.GeneratedMSBuildEditorConfig.editorconfig
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.AssemblyInfoInputs.cache
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.AssemblyInfo.cs
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.csproj.CoreCompileInputs.cache
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.dll
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\refint\AdivinaElNumero.dll
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.pdb
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\AdivinaElNumero.genruntimeconfig.cache
+E:\proyector GitHub\AdivinaElNumero\obj\Debug\net9.0\ref\AdivinaElNumero.dll
